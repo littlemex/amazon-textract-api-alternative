@@ -1,0 +1,1 @@
+# amazon-textract-api-alternative
